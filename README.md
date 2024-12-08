@@ -33,7 +33,8 @@ print(solution)
 ```
 
 ## Output:
-![Screenshot 2024-12-04 202839](https://github.com/user-attachments/assets/025f21c3-9f48-4b84-aa7c-b58e9e4273d5)
+![Screenshot (42)](https://github.com/user-attachments/assets/6aa5172a-d4bc-48fc-8eb2-d09f60c5873d)
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
